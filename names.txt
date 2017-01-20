@@ -1,2 +1,6 @@
 Xi Huang
+<<<<<<< HEAD
 Siqi Xia
+=======
+Olivia Patercsak
+>>>>>>> 9e85b1e76f63c2df442c2178edd359f76ad8998f
